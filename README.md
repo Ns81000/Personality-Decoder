@@ -1,8 +1,16 @@
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDRhZjM3IiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSIyMCIgZmlsbD0iI2Q0YWYzNyIvPjwvc3ZnPg==" width="80" alt="Personality Decoder" />
-</p>
+<div align="center">
+  
+```
+    ╭──────────────╮
+    │      ◉       │
+    │  ◯       ◯   │
+    │      ●       │
+    ╰──────────────╯
+```
 
-<h1 align="center">Personality Decoder</h1>
+# ✦ Personality Decoder ✦
+
+</div>
 
 <p align="center">
   <em>Write freely. Understand deeply.</em>
