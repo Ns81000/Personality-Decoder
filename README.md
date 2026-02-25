@@ -1,14 +1,8 @@
 <div align="center">
-  
-```
-    ╭──────────────╮
-    │      ◉       │
-    │  ◯       ◯   │
-    │      ●       │
-    ╰──────────────╯
-```
 
-# ✦ Personality Decoder ✦
+<img src="logo.svg" alt="Personality Decoder" width="120" height="120">
+
+# Personality Decoder
 
 </div>
 
